@@ -1,0 +1,13 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "firstName": "Daniyal",
+  "lastName": "Farman",
+  "postalCode": "26000",
+  "items": {
+    "backpack": {
+      "name": "Sauce Labs Backpack",
+      "price": "$29.99"
+    }
+  }
+}

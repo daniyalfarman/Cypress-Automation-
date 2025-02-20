@@ -9,6 +9,6 @@
   "author": "Daniyal Farman",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^14.0.2"
+    "cypress": "^14.0.3"
   }
 }
