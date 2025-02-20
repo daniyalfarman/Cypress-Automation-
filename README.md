@@ -1,7 +1,3 @@
-Here's a sample README file for your project:
-
----
-
 # Swag Labs Test Suite
 
 ## Description
